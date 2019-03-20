@@ -1,0 +1,2 @@
+# adx
+Azure Data Explorer
